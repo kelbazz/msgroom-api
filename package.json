@@ -1,0 +1,29 @@
+{
+  "name": "msgroom-cl-api",
+  "version": "1.0.0",
+  "description": "MsgRoom Client API",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.sys36.net:windows-96/online-services/msgroom-cl-api.git"
+  },
+  "keywords": [
+    "chat",
+    "msgroom",
+    "windows96"
+  ],
+  "dependencies": {
+    "socket.io-client": "^4.6.1"
+  },
+  "author": "Windows 96 Team (windows96.net)",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "@types/node": "^18.15.5"
+  }
+}
